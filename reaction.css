@@ -1,0 +1,26 @@
+.hd{
+  background-color: lightblue;
+  font-size:30px;
+  text-align:center;
+  font-style:italic;
+  border:20px;
+  border-radius: 12px;
+  margin: 6px 3px;
+  padding: 7px;
+}
+
+.button0
+{
+  border-radius: 20px;
+  padding:200px;
+  font-size:30px;
+  cursor:pointer;
+}
+
+.button1,.button2
+{
+  padding:30px;
+  font-size:22px;
+  border-radius: 10px;
+  cursor:pointer;
+}
